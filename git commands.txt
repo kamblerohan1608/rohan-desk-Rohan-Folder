@@ -1,0 +1,32 @@
+Git Commands
+
+git config --global user.name Rohan                      - set username
+
+git config --global user.name kamblerohan919@gmail.com   - set email
+
+git init                  - create/initialize emply reposatory
+
+ls -lart                  - to see all hidden reposatories
+
+git status                - To see status of the files in reposatory
+
+git add index.html        - to add file to the staging
+
+git commit                - initial git commit
+
+wim editor -- press i -- initial commit -- esc -- :wq         - file change message
+
+touch filename.extension   - to create new empty files
+
+git commit 
+
+git add -A                - add add files in reposatory to staging
+
+git commit -m "message"   -  file change message alternate way
+
+git checkout filename.extension    - to match the last file commited or to undo the last changes which were not commited or accidently done
+
+git checkout -f           - to undo all files till last commit
+
+
+
