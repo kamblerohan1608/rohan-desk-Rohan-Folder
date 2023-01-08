@@ -1,0 +1,4 @@
+rohan,kamble,25,rohan@gmail.com,12345
+vaibhav,kamble,25,vaibhav@gmail.com,12345
+chikita,kambale,35,chiki@gmail.com,chiki
+sanskruti,patil,12,sanskruti@gmail.com,1234567
